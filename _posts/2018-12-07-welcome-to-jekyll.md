@@ -2,7 +2,7 @@
 layout: post
 title: My Pursuits
 author: Christopher
-banner:
+banner: Click here to continue 
   video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
   volume: 0.8
@@ -16,5 +16,3 @@ banner:
   subheading_style: "color: gold"
 sidebar: []
 ---
-
-Click here
