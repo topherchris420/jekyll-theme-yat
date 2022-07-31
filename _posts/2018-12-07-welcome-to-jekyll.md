@@ -2,7 +2,7 @@
 layout: post
 title: My Pursuits
 author: Christopher
-banner: https://www.theboredapegazette.com/
+banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
   volume: 0.8
@@ -17,4 +17,4 @@ banner: https://www.theboredapegazette.com/
 sidebar: []
 ---
 
-https://www.theboredapegazette.com/
+Click here
