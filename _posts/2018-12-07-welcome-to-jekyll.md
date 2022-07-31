@@ -2,7 +2,7 @@
 layout: post
 title: My Pursuits
 author: Christopher
-banner: Click here to continue 
+banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
   volume: 0.8
